@@ -1,2 +1,2 @@
 # java-learning
- All things i've learned about Java.
+A showcase of my learning in Java.
